@@ -1,14 +1,20 @@
 ![Version](https://img.shields.io/static/v1?label=JournalLinks&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Direct links to journals of interest
+# Direct hyperlinks to journals of interest
+
+## Problem addressed
+Inefficient web searching for journals whose name I do not fully recall.
+
+## Installation
+Open the index.html file in web browser.
 
 
 ## Update History
 
 |Version      | Changes                                         | Date                 |
 |:-----------:|:-----------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added funding, update history, and badges                   | 2024 April 10        |
+| Version 0.2 |  Added funding, update history, and badges      | 2024 May 18        |
 
 
 ## Sources of funding
